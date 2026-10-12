@@ -1,10 +1,10 @@
 
 # Hi there! 👋
 
-## 💻 About Me
-- 🚀 Junior Full Stack Developer
-- 📚 Focused on Backend Development and REST APIs
-- 🎯 Always learning and building real-world projects
+##  About Me
+-  Junior Full Stack Developer
+-  Focused on Backend Development and REST APIs
+-  Always learning and building real-world projects
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Backend Development
 - REST API Development
 - Database Integration
